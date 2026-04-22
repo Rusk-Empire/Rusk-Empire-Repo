@@ -1,20 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Rusk Empire Listing",
+    "id":"com.vrchat.ruskempire",
+    "url":"https://Rusk-Empire.github.io/Rusk-Empire-Repo/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"rusk.empire@gmail.com",
+        "name":"John Rusk",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Rusl Empire listing of packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Rusk-Empire/Rusk-Empire-Repo",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Rusk-Empire/Rusk-Empire-Repo"
     ],
     "packages":[
         {
