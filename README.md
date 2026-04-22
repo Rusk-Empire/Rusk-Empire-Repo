@@ -1,4 +1,4 @@
-# Rusk Empire Package Listing
+# Rusk Empire Listing
 
 ## Ever wanted to edit the avatar of your favorite Booth creator but found "unnecessary assets" in their projects that aren't useful to the average user?
 
