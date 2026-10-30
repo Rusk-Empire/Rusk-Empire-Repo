@@ -20,7 +20,7 @@
         {
             "name":"https://rusk-empire.github.io",
             "releases":[
-                "https://github.com/Rusk-Empire/Rusk-Empire-Repo/archive/refs/heads/main.zip"
+                "https://github.com/Rusk-Empire/Rusk-Empire-Repo/releases/download/0.0.1/com.vrchat.ruskempire-0.0.1.unitypackage"
             ]
         }
     ]
