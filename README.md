@@ -14,4 +14,4 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 ## Features so far:
 - Removes explicit textures no matter when it`s added.
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
-- based and ruskpilled af
+- Based and ruskpilled af
