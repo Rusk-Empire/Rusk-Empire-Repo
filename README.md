@@ -15,7 +15,3 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 - Removes explicit textures no matter when it`s added.
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
 - Based and ruskpilled af
-
-<a href="vcc://vpm/addRepo?url=https%3A%2F%2FRusk-Empire.github.io%2FRusk-Empire-Repo%2Findex.json">
-  <button>Add Rusk Empire to VCC</button>
-</a>
