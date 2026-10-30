@@ -1,32 +1,22 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adding Rusk Empire to VCC</title>
+    <title>Rusk Empire - Add to VCC</title>
 </head>
 <body>
-    <h2>Adding Rusk Empire Repository...</h2>
-    <p>Click the button below if VCC doesn't open automatically.</p>
+    <h2>Opening VRChat Creator Companion...</h2>
 
-    <button onclick="openVCC()">
-        Add to VRChat Creator Companion
-    </button>
+    <p>If VCC doesn't open automatically, click below:</p>
+
+    <a href="vcc://vpm/addRepo?url=https%3A%2F%2FRusk-Empire.github.io%2FRusk-Empire-Repo%2Findex.json">
+        Add Rusk Empire to VCC
+    </a>
 
     <script>
-        function openVCC() {
-            window.location.href =
-                "vcc://vpm/addRepo?url=" +
-                encodeURIComponent(
-                    "https://Rusk-Empire.github.io/Rusk-Empire-Repo/index.json"
-                );
-        }
-
-        // Attempt to open VCC automatically
-        window.addEventListener("load", () => {
-            setTimeout(openVCC, 500);
-        });
+        window.location.replace(
+            "vcc://vpm/addRepo?url=https%3A%2F%2FRusk-Empire.github.io%2FRusk-Empire-Repo%2Findex.json"
+        );
     </script>
 </body>
 </html>
