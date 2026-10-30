@@ -16,4 +16,8 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
 - Based and ruskpilled af
 
-[![Add to VCC](https://shields.io)](vcc://vpm/addRepo?url=https://Rusk-Empire.github.io/Rusk-Empire-Repo/index.json)
+<a href="vcc://vpm/addRepo?url=https://Rusk-Empire.github.io/Rusk-Empire-Repo/index.json" style="text-decoration: none;">
+  <kbd style="background-color: #4ab2ff; color: white; padding: 10px 20px; font-size: 14px; border-radius: 5px; font-weight: bold; display: inline-block; border: none; cursor: pointer;">
+    ➕ Add to VCC
+  </kbd>
+</a>
