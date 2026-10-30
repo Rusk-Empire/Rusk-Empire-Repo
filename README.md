@@ -16,4 +16,4 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
 - Based and ruskpilled af
 
-[Add to VCC](https://Rusk-Empire.github.io/Rusk-Empire-Repo/redirect.html)
+[Add to VCC](https://rusk-empire.github.io/Rusk-Empire-Repo/redirect.html)
