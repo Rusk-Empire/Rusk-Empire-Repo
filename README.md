@@ -15,7 +15,3 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 - Removes explicit textures no matter when it`s added.
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
 - Based and ruskpilled af
-
-## 📦 Add to VRChat Creator Companion
-
-[![Add to VCC](https://img.shields.io/badge/Add%20to-VRChat%20Creator%20Companion-blue?style=for-the-badge)](https://Rusk-Empire.github.io/Rusk-Empire-Repo/redirect.html)
