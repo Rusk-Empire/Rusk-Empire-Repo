@@ -20,7 +20,8 @@
         {
             "name":"rusk-empire.github.io",
             "releases":[
-                "https://github.com/Rusk-Empire/Rusk-Empire-Repo/releases/download/1.0.0/com.rusk.empire.tools-1.0.0.zip"
+                "https://github.com/Rusk-Empire/Rusk-Empire-Repo/releases/download/1.0.0/com.rusk.empire.tools-1.0.0.zip",
+                "https://github.com/Rusk-Empire/Rusk-Empire-Repo/releases/download/1.0.0/com.rusk.empire.tools-1.0.1.zip"
             ]
         }
     ]
