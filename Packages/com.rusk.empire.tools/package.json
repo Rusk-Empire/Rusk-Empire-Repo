@@ -1,0 +1,18 @@
+{
+  "name": "com.rusk.empire.tools",
+  "displayName": "Rusk Empire Tools",
+  "version": "1.0.0",
+  "description": "Gets rid of inapropriate assets.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.6"
+  },
+  "author": {
+    "name": "John Rusk",
+    "email": "rusk.empire@gmail.com",
+    "url": "https://vrchat.com/home/user/usr_d64052d4-c4d9-494a-832c-7cce35e6dec6"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\aaron\\Documents\\VRChat Projekte\\Share\\Packages\\com.rusk.empire.tools"
+}
