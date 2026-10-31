@@ -16,6 +16,6 @@ The idea will be expanded upon in the future, and as we learn, we may even scrap
 - Makes some explicit blendshapes unusable (might completely remove them in future updates)
 - Based and ruskpilled af
 
-<a href="https://rusk-empire.github.io/Rusk-Empire-Repo/?utm_source=chatgpt.com">
+<a href="https://rusk-empire.github.io/Rusk-Empire-Repo/">
   <img src="https://img.shields.io/badge/Add%20to-VCC-8000FF?style=for-the-badge&logoColor=white" alt="Add to VCC">
 </a>
