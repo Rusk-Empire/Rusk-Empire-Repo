@@ -11,7 +11,8 @@ public class AutoDisableBlendShapesByName
         "Nipple_big",
         "Nipple_small",
         "Bra_Nipple_ON",
-        "bust_chikubi"
+        "bust_chikubi",
+        "Chest_flat_Nipple_ON"
     };
 
     static AutoDisableBlendShapesByName()
